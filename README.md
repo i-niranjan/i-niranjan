@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A80A&width=435&lines=Hey%2C+I'm+Niranjan!;Full-Stack+Developer;Building+Cool+Web+Apps!🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A80A&width=435&lines=Hey%2C+I'm+Niranjan!🚀)
+
+
 🚀 Full-Stack Developer | MERN Stack | UI/UX Enthusiast  
 
 ### 💻 About Me  
@@ -21,3 +23,6 @@ I focus on **building clean, scalable, and modern web apps** while experimenting
 📂 My GitHub: [github.com/i-niranjan](https://github.com/i-niranjan)  
 
 🚀 **Let’s connect, build, and grow together!**  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-niranjan&layout=compact&theme=radical)
+
