@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Niranjan!  
 🚀 Full-Stack Developer | MERN Stack | UI/UX Enthusiast  
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A80A&width=435&lines=Hey%2C+I'm+Niranjan!;Full-Stack+Developer;Building+Cool+Web+Apps!🚀)
 ### 💻 About Me  
 I'm a **frontend & backend developer** working with the **MERN stack**.  
 I focus on **building clean, scalable, and modern web apps** while experimenting with new tech.  
