@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Niranjan!  
+🚀 Full-Stack Developer | MERN Stack | UI/UX Enthusiast  
 
-<!--
-**i-niranjan/i-niranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me  
+I'm a **frontend & backend developer** working with the **MERN stack**.  
+I focus on **building clean, scalable, and modern web apps** while experimenting with new tech.  
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack  
+🔹 **Frontend:** React, Next.js, ShadCN, TailwindCSS  
+🔹 **Backend:** Node.js, Express, MongoDB  
+🔹 **Tools:** Git, Firebase, Google Tag Manager (GTM)  
+🔹 **Exploring:** Advanced UI/UX, Shopify Custom Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Current Projects  
+- ✨ **Fix My Words (Beta)** – AI-powered text improvement tool  
+- 🛠 **Building & refining my portfolio** → [iniranjan.com](https://iniranjan.com)  
+
+### 🌍 Connect with Me  
+🐦 Twitter: [@imniranjann](https://x.com/imniranjann)  
+💼 LinkedIn: [Niranjan Chaudhari](https://www.linkedin.com/in/niranjan-chaudhari-26157b194/)  
+📂 My GitHub: [github.com/i-niranjan](https://github.com/i-niranjan)  
+
+🚀 **Let’s connect, build, and grow together!**  
