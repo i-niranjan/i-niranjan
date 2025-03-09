@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A80A&width=435&lines=Hey%2C+I'm+Niranjan!🚀)
 
 
-🚀 Full-Stack Developer | MERN Stack | UI/UX Enthusiast  
+🚀 Full-Stack Developer
 
 ### 💻 About Me  
 I'm a **frontend & backend developer** working with the **MERN stack**.  
