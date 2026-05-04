@@ -1,108 +1,193 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A80A&size=28&width=500&lines=Hey%2C+I'm+Niranjan!+🚀;Full-Stack+Developer;Building+Tools+That+Click+✨)
+<!-- ╭──────────────────────────────────────────────────────────╮ -->
+<!-- │           NIRANJAN CHAUDHARI · GITHUB PROFILE            │ -->
+<!-- ╰──────────────────────────────────────────────────────────╯ -->
 
+<!-- ░░ HEADER WAVE ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:F7A80A&height=200&section=header&text=Niranjan%20Chaudhari&fontSize=50&fontColor=F7A80A&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Crafting%20tools%20that%20click&descSize=16&descAlignY=58&animation=fadeIn" alt="header"/>
+
+<!-- ░░ TYPING SVG ░░ -->
 <div align="center">
-  
-### 🚀 **Full-Stack Developer | Crafting Dev Tools & Interfaces That Click**
 
-*Passionate about building scalable solutions and pixel-perfect experiences*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-iniranjan.com-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://iniranjan.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@imniranjann-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/imniranjann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-chaudhari-26157b194/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7A80A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Niranjan!+%F0%9F%91%8B;Full-Stack+Developer+%E2%80%A2+PERN+%2F+MERN;Building+tools+that+click+%E2%9C%A8;Pixel-perfect+UIs+%2B+scalable+backends)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 💻 **About Me**
-
-I'm **Niranjan** — a full-stack developer specializing in **PERN & MERN stacks**. I build clean UIs, write scalable backend logic, and love shipping real-world tools that developers actually want to use.
-
-🎯 **What drives me:** Polishing the details, experimenting with motion, and pushing my craft a little further every week.
-
----
-
-## 🛠️ **Tech Arsenal**
-
+<!-- ░░ SOCIAL BADGES ░░ -->
 <div align="center">
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### **Tools & Infrastructure**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iniranjan.com-F7A80A?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](https://iniranjan.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@imniranjann-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://x.com/imniranjann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan_Chaudhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/niranjan-chaudhari-26157b194/)
+[![Profile Views](https://komarev.com/ghpvc/?username=i-niranjan&color=F7A80A&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/i-niranjan)
 
 </div>
 
+<br/>
+
+<!-- ░░ WAVE DIVIDER ░░ -->
+<img width="100%" src="https://raw.githubusercontent.com/i-niranjan/i-niranjan/output/wave.svg" onerror="this.style.display='none'" alt=""/>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></picture> &nbsp; About Me
+
+```typescript
+const niranjan = {
+  role:       "Full-Stack Developer",
+  location:   "Navi Mumbai, India",
+  stack:      ["PERN", "MERN", "Next.js", "TypeScript"],
+  focus:      "Dev tools & polished interfaces",
+  currently:  ["Hokori — dev identity layer", "FixMyWords — grammar & style"],
+  philosophy: "Polish the details. Ship the craft.",
+};
+```
+
+> I build clean UIs, write scalable backend logic, and love shipping real-world tools that developers actually want to use.
+
+<br/>
+
 ---
 
-## 🚧 **Featured Projects**
+## 🛠️ &nbsp; Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+
+**Tools & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+---
+
+## 🚧 &nbsp; Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 **Hokori**
+### 🧠 Hokori
 *Dev identity layer*
-- Modern authentication system
-- Developer-focused UI/UX
-- Scalable architecture
+
+A modern authentication system designed for developers — clean UI, scalable architecture, built for the dev workflow.
+
+`Auth` `Next.js` `PostgreSQL` `TypeScript`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✍️ **FixMyWords**
-*Grammar & style enhancement tool*
-- [Live Demo](https://fixmywords.iniranjan.com)
-- Real-time text processing
-- Clean, intuitive interface
+### ✍️ FixMyWords
+*Grammar & style enhancement*
+
+Real-time text processing with a clean, intuitive interface. Polish your writing without the bloat.
+
+[**→ Live Demo**](https://fixmywords.iniranjan.com)
+
+`React` `Node.js` `NLP`
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-niranjan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A80A&text_color=C9D1D9)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-niranjan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7A80A&icon_color=F7A80A&text_color=C9D1D9)
-
-</div>
+<br/>
 
 ---
+
+## 📊 &nbsp; GitHub Analytics
 
 <div align="center">
 
-### 🌟 **Let's Connect & Build Something Amazing**
+<a href="https://github.com/i-niranjan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=i-niranjan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F7A80A&icon_color=F7A80A&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=i-niranjan&theme=react&hide_border=true&background=0D1117&stroke=F7A80A&ring=F7A80A&fire=F7A80A&currStreakLabel=F7A80A" />
+</a>
 
-*Always open to collaborating on exciting projects and innovative ideas*
+<a href="https://github.com/i-niranjan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-niranjan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F7A80A&text_color=C9D1D9&langs_count=8" />
+</a>
 
-**📧 Reach out:** [iniranjan.com](https://iniranjan.com) | **🚀 Let's grow together**
+</div>
+
+<br/>
+
+### 📈 &nbsp; Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i-niranjan&bg_color=0D1117&color=F7A80A&line=F7A80A&point=ffffff&hide_border=true&area=true)](https://github.com/i-niranjan)
+
+</div>
+
+<br/>
+
+### 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/i-niranjan/i-niranjan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
 
 ---
 
-*"Code is poetry written in logic"*
+## 🎵 &nbsp; Currently Vibing To
 
-![Profile Views](https://komarev.com/ghpvc/?username=i-niranjan&color=F7A80A&style=flat-square&label=Profile+Views)
+<div align="center">
+
+[![Spotify](https://novatorem-niranjan.vercel.app/api/spotify)](https://open.spotify.com/)
+
+<sub>*To enable: deploy [novatorem](https://github.com/novatorem/novatorem) with your Spotify credentials and update the URL above.*</sub>
 
 </div>
+
+<br/>
+
+---
+
+## 🤝 &nbsp; Let's Connect
+
+<div align="center">
+
+**Got an idea worth building? I'm all ears.**
+
+<a href="https://iniranjan.com">
+  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-F7A80A?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://github.com/i-niranjan?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_Browse_Projects-1a1a2e?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://www.linkedin.com/in/niranjan-chaudhari-26157b194/">
+  <img src="https://img.shields.io/badge/💬_Let's_Chat-0077B5?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
+*"Code is poetry written in logic."*
+
+</div>
+
+<!-- ░░ FOOTER WAVE ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A80A,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn"/>
